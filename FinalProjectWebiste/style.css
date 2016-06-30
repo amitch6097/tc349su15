@@ -1,0 +1,206 @@
+body{
+    background-image: url(mthood.jpg);
+    background-attachment: fixed; 
+}
+
+#header{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 17px;
+    width:900px;
+    height:55px;
+    margin: 0 auto; left:0px; right:0px;
+    top:0px;
+    text-align: center;
+    position: fixed;
+    background-color: rgba(0,0,0,1);
+}
+
+#logo{
+    margin-top:-10px;
+    float:left;
+    margin-right:20px;
+}
+
+#menu{
+    margin-top: 20px;
+    background-color: rgba(0,0,0,1);
+    list-style: none;
+    height:30px;
+}
+#menu li {
+
+    border-left-style: solid;
+    border-left-color: white;
+    border-left-width: 1px;
+    color:white;
+    display: inline;
+    
+}
+
+#menu li a {
+    padding: 0px 30px 0px 30px;
+    text-decoration: none;
+    color:white;
+}   
+
+#menu li a:hover {
+    font-weight:bold;
+}
+
+
+#body{
+   
+    margin: 0 auto;
+    margin-top: 55px;
+    width:900px;
+    bottom:10px;
+    background-color: rgba(0,0,0,.5) 
+        
+}
+#TITLE{
+    width:890px;
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:10px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
+    background: rgba(0,0,0,1)
+    
+}
+
+#news{
+    margin: 0 auto;
+    height:350px;
+    width: 900px;
+    color:white;
+}
+#newstop{
+    width:550px;
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
+}
+
+#newstxt{
+    font-family: 'Quicksand', sans-serif;
+    font-size:24px;
+    float:right;
+    color:white;
+    background:rgba(0,0,0,1);
+    height:290px;
+    width:330px;
+    
+    padding-top: 10px;
+    padding-left: 20px;
+}
+#newstxt p{
+    font-size:18px;
+}
+#newstxt a{
+    font-size:20px;
+    color:white;
+}
+#newstxt a:hover {
+    font-size: 21px;
+}
+
+#newspic{
+    float: left;
+}
+#lowermenu{
+    height:30px;
+    width:900px;
+    color:white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#lowermenuleft{
+    width:550px;
+    color:white;
+    font-family: 'Quicksand', sans-serif;
+    float:left;
+    font-size: 24px;
+    padding-left: 10px;
+}
+#lowermenuright{
+    width:340px;
+    color:white;
+    font-family: 'Quicksand', sans-serif;
+    float:right;
+    font-size: 24px;
+    
+}
+#lowernewssection{
+    width:540px;
+}
+
+#lowernews{
+    font-family: 'Quicksand', sans-serif;
+    color:white;
+    
+    height:200px;
+    width:540px;
+    background: rgba(0,0,0,1)
+}
+#lowerpic{
+    float:left;
+    height:200px;
+    width:330px;
+}
+#lowerheading{
+    font-size: 22px;
+    float: right;
+    width:200px;
+    
+}
+#lowertxt{
+    width:200px;
+    float:right;
+    padding-left:10px;  
+}
+#lowertxt a{
+    padding-top:10px;
+    color:white;
+    
+}
+#lowertxt a:hover {
+    font-size: 18px;
+}
+
+#lowerimgsection{
+    width:300px;
+    bottom:auto;
+    background:rgba(0,0,0,1);
+    color:white;
+    margin-top:10px;
+}
+#abouttop{
+    width:550px;
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
+}
+
+#abouttxt{
+    font-family: 'Quicksand', sans-serif;
+    font-size:24px;
+    float:right;
+    color:white;
+    height: 270px;
+    background:rgba(0,0,0,1);
+    width:880px;
+    padding-left: 20px;
+    height:auto;
+}
+#abouttxt p{
+    font-size:18px;
+}
